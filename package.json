@@ -1,0 +1,22 @@
+{
+  "name": "thequiz",
+  "version": "1.0.0",
+  "description": "Ingornant Quiz all'italiana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carru93/TheQuiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carru93/TheQuiz/issues"
+  },
+  "homepage": "https://github.com/carru93/TheQuiz#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
